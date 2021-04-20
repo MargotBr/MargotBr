@@ -4,7 +4,7 @@
 
 That's right. What am I doing here? 🤔 
 
-I was not really predestined to spend my days coding. There was a time when I was taking food engineering classes 🍲. I learned a lot of stuff: nutrition, food engineering, microbiology, oenology (cheers! 🍇🍷), but also super cool statistics stuff. Models, factor analysis, experimental designs became my daily routine 📈. And R came into my life. During my PhD thesis _- in statistics applied to the food industry -_ I was able to produce my first R package 📦. And tadaaaaa 🎉 it was a revelation. I wanted to code, code, and code again 💻. Now, I am an happy R trainer & R consultant at @ThinkR-open. 
+I was not really predestined to spend my days coding. There was a time when I was taking food engineering classes 🍲. I learned a lot of stuff: nutrition, food engineering, microbiology, oenology (cheers! 🍇🍷), but also super cool statistics stuff. Models, factor analysis, experimental designs became my daily routine 📈. And R came into my life. During my PhD thesis _- in statistics applied to the food industry -_ I was able to produce my first R package 📦. And tadaaaaa 🎉 it was a revelation. I wanted to code, code, and code again 💻. Now, I am an happy R trainer & R consultant at [@ThinkR-open](https://github.com/ThinkR-open/). 
 
 #### What am I working on?
 
