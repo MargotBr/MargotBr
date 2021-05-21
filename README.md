@@ -16,6 +16,8 @@ Login to access the app: _welcome_ <br />
 Password to access the app: _bigday_ <br />
 Password to access the tab dedicated to brides/grooms: _onlyforbride_
 
+   ![wedding_demo](https://user-images.githubusercontent.com/20540890/119115729-c8c86800-ba27-11eb-977a-ca982197a120.gif)
+
 - 📦 [`{agreeclust}`](https://github.com/MargotBr/agreeclust), a R package that considers a latent class regression modeling framework for highlighting the structure of disagreement among panels of raters involved in an inquiry
 
 #### What do I like to do?
