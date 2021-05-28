@@ -20,7 +20,7 @@ Password to access the tab dedicated to brides/grooms: _onlyforbride_
 
 - 🎨 📊 [`plotellaneous`](https://github.com/MargotBr/plotellaneous), a repo where I put my miscellaneous dataviz experiments
 
-   ![margotbrd_plot_sepal_wl](https://user-images.githubusercontent.com/20540890/120018868-001ab400-bfe8-11eb-9b6a-47aeae2faef9.gif)
+   <img src="https://user-images.githubusercontent.com/20540890/120018868-001ab400-bfe8-11eb-9b6a-47aeae2faef9.gif" width="530"/>
 
 - 📦 [`{agreeclust}`](https://github.com/MargotBr/agreeclust), a R package that considers a latent class regression modeling framework for highlighting the structure of disagreement among panels of raters involved in an inquiry
 
