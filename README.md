@@ -9,14 +9,16 @@ I was not really predestined to spend my days coding. There was a time when I wa
 #### What am I working on?
 
 Here are the projects I am working on or have worked on lately:
-`
-- 📦💻 [`{wedding}`](https://github.com/ThinkR-open/wedding), a R `{golem}`-style package that launches a `{shiny}` app to plan your wedding _(in this case I created it to plan mine, but the application is generalizable to all people wishing to marry)_ <br />
+
+- 📦 💻 [`{wedding}`](https://github.com/ThinkR-open/wedding), a R `{golem}`-style package that launches a `{shiny}` app to plan your wedding _(in this case I created it to plan mine, but the application is generalizable to all people wishing to marry)_ <br />
 ➡️ A demo is available here : http://connect.thinkr.fr/wedding/ <br />
 Login to access the app: _welcome_ <br />
 Password to access the app: _bigday_ <br />
 Password to access the tab dedicated to brides/grooms: _onlyforbride_
 
    ![wedding_demo](https://user-images.githubusercontent.com/20540890/119115729-c8c86800-ba27-11eb-977a-ca982197a120.gif)
+
+- 🎨 📊 [`plotellaneous`](https://github.com/MargotBr/plotellaneous), a repo where I put my miscellaneous dataviz experiments
 
 - 📦 [`{agreeclust}`](https://github.com/MargotBr/agreeclust), a R package that considers a latent class regression modeling framework for highlighting the structure of disagreement among panels of raters involved in an inquiry
 
